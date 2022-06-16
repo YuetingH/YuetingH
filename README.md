@@ -14,6 +14,8 @@ My name is Yueting Han. I am currently a MSc student from [MathSys CDT](https://
 &nbsp;
 
 ## Network Visualization
-### Highlight
+
 - Community Detection
-<img src="Network_Visualization/Community_Detection.png" style="width:600px;"/>
+    <img src="Network_Visualization/Community_Detection.png" style="width:700px;"/>
+    <img src="Network_Visualization/Subject_Community.png" style="width:500px;"/>
+

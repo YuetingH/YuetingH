@@ -30,8 +30,12 @@ See details in GitHub Organization: [Kirontech-Project](https://github.com/Kiron
 ![](https://img.shields.io/badge/Software-Tulip-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+---
+
 ### Programming Syntax
 See relevant notes in my GitHub Repo [Syntax_Notebook](https://github.com/YuetingH/Syntax_Notebook).
+
+---
 
 ### Network Visualization Resource
 ### A. Python Packages

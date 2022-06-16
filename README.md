@@ -17,5 +17,4 @@
 
 - Community Detection
     <img src="Network_Visualization/Community_Detection.png" style="width:700px;"/>
-    %<img src="Network_Visualization/Subject_Community.png" style="width:500px;"/>
 

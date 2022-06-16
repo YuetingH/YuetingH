@@ -13,6 +13,8 @@ My name is Yueting Han. I am currently a MSc student from [MathSys CDT](https://
 ![](https://img.shields.io/badge/Software-Tulip-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+See relevant notes in my GitHub Repo [Syntax_Notebook](https://github.com/YuetingH/Syntax_Notebook).
+
 &nbsp;
 
 ## Network Modelling

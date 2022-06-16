@@ -1,8 +1,8 @@
 # Hi there 👋
 
-My name is Yueting Han. I am currently a MSc student from [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/) at University of Warwick. My main research interest is mathematical modelling of social network, keen on network visualization!
+> My name is Yueting Han. I am currently a MSc student from [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/) at University of Warwick. My main research interest is mathematical modelling of social network, keen on network visualization!
 
-### Technologies and Tools
+## Technologies and Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -13,9 +13,9 @@ My name is Yueting Han. I am currently a MSc student from [MathSys CDT](https://
 
 &nbsp;
 
-## Network Visualization
+## Network Visualization Highlight
 
 - Community Detection
     <img src="Network_Visualization/Community_Detection.png" style="width:700px;"/>
-    <img src="Network_Visualization/Subject_Community.png" style="width:500px;"/>
+    %<img src="Network_Visualization/Subject_Community.png" style="width:500px;"/>
 

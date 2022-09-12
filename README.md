@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Yueting Han. I am currently a MSc student from [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/) at University of Warwick. My main research interest is network modelling. During this process, I pay particular attention to its visualization.
+My name is Yueting Han. I am currently an MSc student from [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/) at University of Warwick. My main research interest is network modelling. During this process, I pay particular attention to its visualization.
 
 &nbsp;
 
@@ -75,4 +75,4 @@ Gephi is an open-source graph analysis and visualization program. We use it to m
 
 Tulip is another open-source graph visualization and analysis tool. Here it is applied for **edge bundling**.
 
-Explanation and other platforms for **edge bundling** are available [here](https://courses.isds.tugraz.at/ivis/surveys/ss2017/ivis-ss2017-g4-survey-edge-bundling.pdf).
+Explanations and other platforms for **edge bundling** are available [here](https://courses.isds.tugraz.at/ivis/surveys/ss2017/ivis-ss2017-g4-survey-edge-bundling.pdf).

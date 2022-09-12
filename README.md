@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Yueting Han. I am currently an MSc student from [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/) at University of Warwick. My main research interest is network modelling. During this process, I pay particular attention to its visualization.
+My name is Yueting Han. I am currently an MSc student from [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/) at University of Warwick. My main research interest is network modelling. During my research, I pay particular attention to its visualization.
 
 &nbsp;
 

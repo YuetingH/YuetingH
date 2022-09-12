@@ -1,13 +1,25 @@
 # Hi there 👋
 
-My name is Yueting Han. I am currently a MSc student from [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/) at University of Warwick. My main research interest is network modelling, keen on its visualization!
+My name is Yueting Han. I am currently a MSc student from [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/) at University of Warwick. My main research interest is network modelling. During this process, I pay particular attention to its visualization.
 
 &nbsp;
 
 
-## Network Modelling
+## Network Modelling Projects
 
-### Graph-Based Anomaly Detection in Healthcare Data
+### A. Bow-tie Structure of Online Social Networks on Vaccination Views Competition
+> MathSys 2021-22 MSc Individual Project at University of Warwick.
+
+A network represents entities in a complex system as nodes, and their pairwise relationships as edges. Network modelling enables data analysis at a large scale, which can provide a systematic understanding of behavioral ecology in areas such as computer science, social science, biology and physics. 
+
+In this dissertation, we investigate a network structure known as ‘bow-tie structure’ in online social networks that represent interactive web pages on Facebook. Our analysis and preliminary prediction model show that this structure can shed light on the structural differences of information diffusion in different vaccine groups, and their evolution over time.
+
+See details in GitHub Repo: [MSc_Indivudal_Project](https://github.com/YuetingH/MSc_Individual_Project). My dataset is also open available there for public research. 
+
+<img src="Network_Visualization/Vaccine_Views_Dataset.png" style="width:600px;"/>
+
+
+### B. Graph-Based Anomaly Detection in Healthcare Data
 >MathSys 2021-22 MSc group project at University of Warwick.
 
 Our external partners at [Kirontech](https://www.kirontech.com/) offer a Health Insurance Platform that helps insurance payers deal with anomalies in their insurance claims. Healthcare data naturally involves a number of relevant interactions between different entities. Kirontech has yet to explore graph-based anomaly detection (GBAD) techniques.
@@ -17,7 +29,7 @@ Our external partners at [Kirontech](https://www.kirontech.com/) offer a Health 
 See details in GitHub Organization: [Kirontech-Project](https://github.com/Kirontech-Project).
 
 
-<img src="Network_Visualization/Community_Detection.png" style="width:700px;"/>
+<img src="Network_Visualization/Kirontech.png" style="width:600px;"/>
 
 &nbsp;
 
@@ -37,7 +49,7 @@ See relevant notes in my GitHub Repo [Syntax_Notebook](https://github.com/Yuetin
 
 ---
 
-### Network Visualization Resource
+### Network Visualization Resources
 ### A. Python Packages
 - **nxviz**: https://github.com/ericmjl/nxviz
 - **ForceAtlas2**: https://github.com/bhargavchippada/forceatlas2

@@ -12,7 +12,7 @@ My name is Yueting Han. I am currently an MSc student from [MathSys CDT](https:/
 
 A network represents entities in a complex system as nodes, and their pairwise relationships as edges. Network modelling enables data analysis at a large scale, which can provide a systematic understanding of behavioral ecology in areas such as computer science, social science, biology and physics. 
 
-In this dissertation, we investigate a network structure known as ‘bow-tie structure’ in online social networks that represent interactive web pages on Facebook. Our analysis and preliminary prediction model show that this structure can shed light on the structural differences of information diffusion in different vaccine groups, and their evolution over time.
+**In this dissertation, we investigate a network structure known as ‘bow-tie structure’ in online social networks that represent interactive web pages on Facebook. Our analysis and preliminary prediction model show that this structure can shed light on the structural differences of information diffusion in different vaccine groups, and their evolution over time.**
 
 See details in GitHub Repo: [MSc_Indivudal_Project](https://github.com/YuetingH/MSc_Individual_Project). My dataset is also open available there for public research. 
 

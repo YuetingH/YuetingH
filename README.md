@@ -1,20 +1,19 @@
 # Hi there 👋
 
-My name is Yueting Han. I am currently a PhD student from [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/) at University of Warwick. My main research interest is network modelling. During my research, I pay particular attention to its visualization.
+My name is Yueting Han. I'm currently a PhD student from [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/) at the University of Warwick. My research direction is network modelling of behavioural ecology in digital ecosystems (e.g., online media and digital market). Topics of particular interest are social network dynamics, mesoscale structure (e.g., community detection and bow-tie structure), agent-based modelling and simulation. During my research, I pay particular attention to network visualisation.
 
 &nbsp;
 
 
-## Network Modelling Projects
+## Research Projects
+### A. Modelling and Predicting Online Vaccination Views using Bow-tie Decomposition
+> Y. Han, M. Bazzi, and P. Turrini, "Modelling and Predicting Online Vaccination Views using Bow-tie Decomposition", 2024. [Arxiv preprint](https://arxiv.org/abs/2401.06255). To appear in *Royal Society Open Science*.
 
-### A. Bow-tie Structure of Online Social Networks on Vaccination Views Competition
-> MathSys 2021-22 MSc Individual Project at University of Warwick.
+This paper analyses the information exchange between Facebook pages with different vaccination stances (anti-, pro-, and neutral), from the lens of bow-tie structure — a network structure that groups users of information “creators”, “magnifiers”, “listeners”, etc. 
 
-A network represents entities in a complex system as nodes, and their pairwise relationships as edges. Network modelling enables data analysis at a large scale, which can provide a systematic understanding of behavioral ecology in areas such as computer science, social science, biology and physics. 
+We not only uncover statistically different bow-tie structures associated with each vaccination group, but also show its efficacy in predicting page fan count increase through both machine learning and mechanistic simulation methods. Grounded in real data with generative modelling frameworks, this work encourages further research on bow-tie structure, particularly in the realm of opinion dynamics.
 
-**In this dissertation, we investigate a network structure known as ‘bow-tie structure’ in online social networks that represent interactive web pages on Facebook. Our analysis and preliminary prediction model show that this structure can shed light on the structural differences of information diffusion in different vaccine groups, and their evolution over time.**
-
-See details in GitHub Repo: [MSc_Indivudal_Project](https://github.com/YuetingH/MSc_Individual_Project). My dataset is also open available there for public research. 
+Data and relevant code for this research work are stored in GitHub Repo: [BT_Vaccination_Views](https://github.com/YuetingH/BT_Vaccination_Views) and have been archived within the [Zenodo repository](https://zenodo.org/records/10513913).
 
 <img src="Network_Visualization/Vaccine_Views_Dataset.png" style="width:600px;"/>
 
@@ -24,7 +23,7 @@ See details in GitHub Repo: [MSc_Indivudal_Project](https://github.com/YuetingH/
 
 Our external partners at [Kirontech](https://www.kirontech.com/) offer a Health Insurance Platform that helps insurance payers deal with anomalies in their insurance claims. Healthcare data naturally involves a number of relevant interactions between different entities. Kirontech has yet to explore graph-based anomaly detection (GBAD) techniques.
 
-**The goal of this project is to adopt different GBAD methods on Kirontech's real-life dataset and provide evidence that graph-based data is useful to examine different anomalies.**
+The goal of this project is to adopt different GBAD methods on Kirontech's real-life dataset and provide evidence that graph-based data is useful to examine different anomalies.
 
 See details in GitHub Organization: [Kirontech-Project](https://github.com/Kirontech-Project).
 
@@ -42,14 +41,15 @@ See details in GitHub Organization: [Kirontech-Project](https://github.com/Kiron
 ![](https://img.shields.io/badge/Software-Tulip-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
+
+### Network-related Programming
+>I led support classes for network-related programming using Python in 4th-year / MSc-year Maths module MA4M4: Topics in Complexity Science (2022/23) at the University of Warwick. 
+
+Some resources about public datasets and coding examples are documented in GitHub Repo: [MA4M4_2023](https://github.com/YuetingH/MA4M4_2023).
+
 ---
 
-### Programming Syntax
-See relevant notes in my GitHub Repo [Syntax_Notebook](https://github.com/YuetingH/Syntax_Notebook).
-
----
-
-### Network Visualization Resources
+### Network Visualisation Resources
 ### A. Python Packages
 - **nxviz**: https://github.com/ericmjl/nxviz
 - **ForceAtlas2**: https://github.com/bhargavchippada/forceatlas2
@@ -65,7 +65,7 @@ There are many visualization tools available for network analysis, which are det
 - **Platform**: Windows, Mac, Linux
 - **Installation for Ubuntu**: https://lucahammer.com/2020/02/26/how-to-install-gephi-0-9-2-on-ubuntu-18-04
 
-Gephi is an open-source graph analysis and visualization program. We use it to manually adjust graph layout by applying **ForceAtlas2**. 
+Gephi is an open-source graph analysis and visualization tool. We use it to manually adjust graph layout by applying **ForceAtlas2**. 
 
 #### 2. Tulip
 - **Website**: https://tulip.labri.fr/site/
@@ -73,6 +73,6 @@ Gephi is an open-source graph analysis and visualization program. We use it to m
 - **Platform**: Windows, Mac, Linux
 - **Installation for Ubuntu**: [Tulip_quickstart.pdf](Network_Visualization/Tulip_quickstart.pdf)
 
-Tulip is another open-source graph visualization and analysis tool. Here it is applied for **edge bundling**.
+Tulip is another open-source graph visualisation and analysis tool. Here it is applied for **edge bundling**.
 
 Explanations and other platforms for **edge bundling** are available [here](https://courses.isds.tugraz.at/ivis/surveys/ss2017/ivis-ss2017-g4-survey-edge-bundling.pdf).

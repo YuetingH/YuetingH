@@ -7,7 +7,7 @@ My name is Yueting Han. I'm currently a PhD student from [MathSys CDT](https://w
 
 ## Research Projects
 ### A. Modelling and Predicting Online Vaccination Views using Bow-tie Decomposition
-> Y. Han, M. Bazzi, and P. Turrini, "Modelling and Predicting Online Vaccination Views using Bow-tie Decomposition", 2024. [Arxiv preprint](https://arxiv.org/abs/2401.06255). To appear in *Royal Society Open Science*.
+> Y. Han, M. Bazzi, and P. Turrini, ["Modelling and Predicting Online Vaccination Views using Bow-tie Decomposition"](https://royalsocietypublishing.org/doi/10.1098/rsos.231792). *Royal Society Open Science* 11, 231792. (2024)
 
 This paper analyses the information exchange between Facebook pages with different vaccination stances (anti-, pro-, and neutral), from the lens of bow-tie structure — a network structure that groups users of information “creators”, “magnifiers”, “listeners”, etc. 
 

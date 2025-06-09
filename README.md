@@ -18,7 +18,7 @@ Using a scalable temporal network modelling framework applied to over 100 millio
 
 Data and relevant code are stored in GitHub Repo: [COVID_Retweets](https://github.com/YuetingH/COVID_Retweets). 
 
-<img src="Network_Visualization/COVID_Retweets.png" style="width:600px;"/>
+<img src="Network_Visualization/COVID_Retweets.png" style="width:500px;"/>
 
 ### B. Modelling and Predicting Online Vaccination Views using Bow-tie Decomposition
 > Y. Han, M. Bazzi, and P. Turrini, ["Modelling and Predicting Online Vaccination Views using Bow-tie Decomposition"](https://royalsocietypublishing.org/doi/10.1098/rsos.231792). *Royal Society Open Science* 11, 231792. (2024)

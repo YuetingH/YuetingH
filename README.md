@@ -1,24 +1,38 @@
 # Hi there 👋
 
-My name is Yueting Han. I'm currently a PhD student from [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/) at the University of Warwick. My research direction is network modelling of behavioural ecology in digital ecosystems (e.g., online media and digital market). Topics of particular interest are social network dynamics, mesoscale structure (e.g., community detection and bow-tie structure), agent-based modelling and simulation. During my research, I pay particular attention to network visualisation.
+My name is Yueting Han. I'm currently a PhD student from [MathSys CDT](https://warwick.ac.uk/fac/sci/mathsys/) at the University of Warwick. 
+
+My research direction is network modelling of behavioural ecology in social media (e.g., Facebook, Twitter). Topics of particular interest are social network dynamics, mesoscale structure (e.g., community detection, bow-tie structure), agent-based modelling, network epidemiology. During my research, I pay particular attention to network visualisation.
 
 &nbsp;
 
 
 ## Research Projects
-### A. Modelling and Predicting Online Vaccination Views using Bow-tie Decomposition
+
+### A. Measuring the co-evolution of online engagement with (mis)information and its visibility at scale
+> Y. Han, P. Turrini, M. Bazzi, G. Andrighetto, E. Polizzi, and M. De Domenico, ["Measuring the co-evolution of online engagement with (mis)information and its visibility at scale"](https://arxiv.org/abs/2506.06106). (Preprint, 2025). 
+
+In this paper, we measure the co-evolution of online "engagement" with (mis)information and its "visibility", where engagement corresponds to user interactions on social media, and visibility to fluctuations in user follower counts.
+
+Using a scalable temporal network modelling framework applied to over 100 million COVID-related retweets spanning 3 years, we find that highly engaged sources experience sharp spikes in follower growth during major events (e.g., vaccine rollouts, epidemic severity), whereas sources with more questionable credibility tend to sustain faster growth outside of these periods. Our framework lends itself to studying other large-scale events where online attention is at stake, such as climate and political debates.
+
+Data and relevant code are stored in GitHub Repo: [COVID_Retweets](https://github.com/YuetingH/COVID_Retweets). 
+
+<img src="Network_Visualization/COVID_Retweets.png" style="width:600px;"/>
+
+### B. Modelling and Predicting Online Vaccination Views using Bow-tie Decomposition
 > Y. Han, M. Bazzi, and P. Turrini, ["Modelling and Predicting Online Vaccination Views using Bow-tie Decomposition"](https://royalsocietypublishing.org/doi/10.1098/rsos.231792). *Royal Society Open Science* 11, 231792. (2024)
 
 This paper analyses the information exchange between Facebook pages with different vaccination stances (anti-, pro-, and neutral), from the lens of bow-tie structure — a network structure that groups users of information “creators”, “magnifiers”, “listeners”, etc. 
 
-We not only uncover statistically different bow-tie structures associated with each vaccination group, but also show its efficacy in predicting page fan count increase through both machine learning and mechanistic simulation methods. Grounded in real data with generative modelling frameworks, this work encourages further research on bow-tie structure, particularly in the realm of opinion dynamics.
+We uncover statistically different bow-tie structures associated with each vaccination group, and show its efficacy in predicting page fan count increase through both machine learning and mechanistic simulation methods. Grounded in real data with generative modelling frameworks, this work encourages further research on bow-tie structure, particularly in the realm of opinion dynamics.
 
 Data and relevant code for this research work are stored in GitHub Repo: [BT_Vaccination_Views](https://github.com/YuetingH/BT_Vaccination_Views) and have been archived within the [Zenodo repository](https://zenodo.org/records/10513913).
 
 <img src="Network_Visualization/Vaccine_Views_Dataset.png" style="width:600px;"/>
 
 
-### B. Graph-Based Anomaly Detection in Healthcare Data
+### C. Graph-Based Anomaly Detection in Healthcare Data
 >MathSys 2021-22 MSc group project at University of Warwick.
 
 Our external partners at [Kirontech](https://www.kirontech.com/) offer a Health Insurance Platform that helps insurance payers deal with anomalies in their insurance claims. Healthcare data naturally involves a number of relevant interactions between different entities. Kirontech has yet to explore graph-based anomaly detection (GBAD) techniques.
